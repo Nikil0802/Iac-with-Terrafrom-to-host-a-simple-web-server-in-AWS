@@ -203,10 +203,5 @@ Press enter or click to view image in full size
 
 This project serves as a foundational experience in using Terraform to manage AWS resources, as well as in setting up basic web server hosting on the cloud. It can be extended or modified for more complex deployments in the future.
 
-
-
 ---
 
-### 📢 **Stay Connected**
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
