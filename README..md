@@ -201,20 +201,9 @@ Press enter or click to view image in full size
 
 ### **Documentation and Best Practices**
 
-Throughout the process, we documented each step, including troubleshooting methods and configuration choices. This not only aids in maintenance but also helps in scaling or adjusting the project later.
-
 This project serves as a foundational experience in using Terraform to manage AWS resources, as well as in setting up basic web server hosting on the cloud. It can be extended or modified for more complex deployments in the future.
 
-## 🛠️ **Author & Community**
 
-This project is crafted by [**Harshhaa**](https://github.com/NotHarshhaa) 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.
-
----
-
-### 📧 **Connect with me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)
 
 ---
 
